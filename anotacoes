@@ -1,0 +1,3 @@
+Caso de erro no push, de o seguinte comando no git bash :
+git push -f origin master
+
